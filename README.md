@@ -1,4 +1,4 @@
-![CPF](https://timeline.canaltech.com.br/345505.700/melhores-aplicativos-para-consultar-o-cpf-por-celular.jpg)
+![CPF](https://meutudo.com.br/blog/wp-content/uploads/elementor/thumbs/pasted-image-0-11-2-ouw28azqn4zgrl8a0u1ks87nb7ozzqqlu6iy7sy8io.png.webp)
 
 (*Disclaimer: this program was made for study propose and has no responsibility to validate a real CPF. The program follows the validation logic of the CPF, however, is not considered a valid number by law.*)
 
