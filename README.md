@@ -2,6 +2,8 @@
 
 (*Disclaimer: this program was made for study propose and has no responsibility to validate a real CPF. The program follows the validation logic of the CPF, however, is not considered a valid number by law.*)
 
+# What is a CPF?
+
 The Registration of Individuals is the record maintained by the Federal Revenue Service of Brazil in which can register, only once, any natural persons, regardless of age or nationality, including deceased.
 
 Each of the candidates who are registered is only identified by a registration number in your CPF, with 11 decimal digits. This is a number that never changes, can only change by a judicial or even administrative decision.
